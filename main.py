@@ -1,4 +1,4 @@
-import requests, json
+import requests
 from tkinter import *
 
 
